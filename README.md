@@ -1,7 +1,7 @@
 # RikeXdiskShell
 This is a simple simulation terminal that I learned about Windows window message writing
 
-(中文readme)[https://github.com/WhiteFoxLinux/RikeXdiskShell/blob/main/README-cn.md]
+[中文readme](https://github.com/WhiteFoxLinux/RikeXdiskShell/blob/main/README-cn.md)
 
 This project has some bugs, but I don't really want to fix them. After testing the SendCloseGen function, it can be used to combat programs without drivers and hooks.
 
