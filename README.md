@@ -1,4 +1,4 @@
-# RikeXdiskShell
+![image](https://github.com/WhiteFoxLinux/RikeXdiskShell/assets/151636139/280b6418-f39c-454c-87d0-0cd47172326d)# RikeXdiskShell
 This is a simple simulation terminal that I learned about Windows window message writing
 
 This project has some bugs, but I don't really want to fix them. After testing the SendCloseGen function, it can be used to combat programs without drivers and hooks.
@@ -14,3 +14,8 @@ RikeXdisk@System>>>help
 
 You can obtain the software
 
+`help--`
+* 你可以使用SendCloseGen命令使用句柄来关闭窗口，具有驱动保护的软件以及进行消息hook的软件可能无效。
+* 你可以使用SendGen来发送自定义消息
+
+![image](https://github.com/WhiteFoxLinux/RikeXdiskShell/blob/main/Resources%20you%20don't%20need./2.png)
