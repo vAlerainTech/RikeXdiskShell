@@ -1,4 +1,4 @@
-![image](https://github.com/WhiteFoxLinux/RikeXdiskShell/assets/151636139/280b6418-f39c-454c-87d0-0cd47172326d)# RikeXdiskShell
+# RikeXdiskShell
 This is a simple simulation terminal that I learned about Windows window message writing
 
 This project has some bugs, but I don't really want to fix them. After testing the SendCloseGen function, it can be used to combat programs without drivers and hooks.
