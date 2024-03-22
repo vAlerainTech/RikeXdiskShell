@@ -3,6 +3,9 @@ This is a simple simulation terminal that I learned about Windows window message
 
 [中文readme](https://github.com/WhiteFoxLinux/RikeXdiskShell/blob/main/README-cn.md)
 
+> [!NOTE]  
+> The last update will be on March 22, 2024, and I will be refactoring the code soon
+
 This project has some bugs, but I don't really want to fix them. After testing the SendCloseGen function, it can be used to combat programs without drivers and hooks.
 
 # Some explanations
